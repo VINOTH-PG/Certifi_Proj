@@ -1,0 +1,4 @@
+../Inc/uart_tx.h:20:6:uart_tx_init	8	static
+../Inc/uart_tx.h:66:6:uart2_wr	16	static
+../Inc/uart_tx.h:83:6:computate_baudrate_bd	24	static
+../Src/main.c:3:5:main	16	static
